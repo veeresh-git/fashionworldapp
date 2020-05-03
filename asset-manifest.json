@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fashionworldapp/static/css/main.32c76674.chunk.css",
+    "main.js": "/fashionworldapp/static/js/main.6fadab99.chunk.js",
+    "main.js.map": "/fashionworldapp/static/js/main.6fadab99.chunk.js.map",
+    "runtime-main.js": "/fashionworldapp/static/js/runtime-main.34379542.js",
+    "runtime-main.js.map": "/fashionworldapp/static/js/runtime-main.34379542.js.map",
+    "static/js/2.bc6309ef.chunk.js": "/fashionworldapp/static/js/2.bc6309ef.chunk.js",
+    "static/js/2.bc6309ef.chunk.js.map": "/fashionworldapp/static/js/2.bc6309ef.chunk.js.map",
+    "index.html": "/fashionworldapp/index.html",
+    "precache-manifest.fd14e792b67ef4dd1062c9bd8404a72e.js": "/fashionworldapp/precache-manifest.fd14e792b67ef4dd1062c9bd8404a72e.js",
+    "service-worker.js": "/fashionworldapp/service-worker.js",
+    "static/css/main.32c76674.chunk.css.map": "/fashionworldapp/static/css/main.32c76674.chunk.css.map",
+    "static/js/2.bc6309ef.chunk.js.LICENSE.txt": "/fashionworldapp/static/js/2.bc6309ef.chunk.js.LICENSE.txt",
+    "static/media/crown.19ef7b17.svg": "/fashionworldapp/static/media/crown.19ef7b17.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34379542.js",
+    "static/js/2.bc6309ef.chunk.js",
+    "static/css/main.32c76674.chunk.css",
+    "static/js/main.6fadab99.chunk.js"
+  ]
+}
